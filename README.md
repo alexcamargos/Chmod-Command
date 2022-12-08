@@ -1,10 +1,12 @@
 # CHMOD Calculator
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3941883-0f6c-4ef6-ab50-a9fa1e2c72e2/deploy-status)](https://app.netlify.com/sites/chmod/deploys)
+
 Chmod Calculator is a free utility for calculating the numerical (octal) or symbolic value for a set of file or folder permissions on unix-like operating systems.
 
 ## View Project in Execution
 
-You can check this website on this :globe_with_meridians: [link](https://#).
+You can check this website on this :globe_with_meridians: [link](https://chmod.netlify.app).
 
 ## Technologies
 
