@@ -1,0 +1,21 @@
+{
+    "name": "chmod-command",
+    "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://chmod.netlify.app",
+    "author": "Alexsander Lopes Camargos <alcamargos@vivaldi.net> (https://alcamargos.me)",
+    "description": "Chmod Calculator is a free utility for calculating the numerical (octal) or symbolic value for a set of file or folder permissions on unix-like operating systems.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexcamargos/Chmod-Command.git"
+    },
+    "main": "index.html",
+    "scripts": {
+        "build": "tailwindcss build -i ./src/tailwindcss.src.css -o ./dist/assets/stylesheet/tailwind.min.css --minify"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.1",
+        "prettier-plugin-tailwindcss": "^0.2.0",
+        "tailwindcss": "^3.2.4"
+    }
+}
